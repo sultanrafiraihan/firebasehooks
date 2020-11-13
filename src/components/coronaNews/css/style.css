@@ -1,0 +1,8 @@
+.table{
+  border: 1px solid black;
+  width: 100%;
+}
+
+.table p{
+  margin: 2px 2px 1px 1px;
+}
